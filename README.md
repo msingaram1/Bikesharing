@@ -14,7 +14,7 @@ This analysis provides useful insights into starting a ridesharing service for b
 Top Starting Locations
 
 August Peak Hours 
-[image](https://github.com/msingaram1/Bikesharing/blob/main/August%20Peak%20Hours.PNG)
+![image](https://github.com/msingaram1/Bikesharing/blob/main/August%20Peak%20Hours.PNG)
     
     
     
