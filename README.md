@@ -15,7 +15,7 @@ Top Starting Locations
 
 August Peak Hours
     
-    ![alt text](https://github.com/msingaram1/Bikesharing/blob/main/August%20Peak%20Hours.PNG)
+    ![image](https://github.com/msingaram1/Bikesharing/blob/main/August%20Peak%20Hours.PNG)
     
     - Highest activity hours from 5:00 PM to 7:00 PM and require the most resources mobilized.
     - Activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
@@ -26,7 +26,7 @@ Checkout Time vs Users
     - Bikes are mostly checked out for 4 to 6 hours
     
 Checkout Time vs Gender
-    ![alt text] (https://github.com/msingaram1/Bikesharing/blob/main/Checkout%20Time%20vs%20Genders.PNG)
+    ![image] (https://github.com/msingaram1/Bikesharing/blob/main/Checkout%20Time%20vs%20Genders.PNG)
     
     - Males use the service 3x more than women
     
