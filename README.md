@@ -27,7 +27,7 @@ Checkout Time vs Users
     - Bikes are mostly checked out for 4 to 6 hours
     
 Checkout Time vs Gender
-![image] (https://github.com/msingaram1/Bikesharing/blob/main/Checkout%20Time%20vs%20Genders.PNG)
+![image](https://github.com/msingaram1/Bikesharing/blob/main/Checkout%20Time%20vs%20Genders.PNG)
     
     
     - Males use the service 3x more than women
