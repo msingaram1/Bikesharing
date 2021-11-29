@@ -35,7 +35,7 @@ Checkout Time vs Gender
 Trips by Weekday and Gender
     ![image](https://github.com/msingaram1/Bikesharing/blob/main/Trips%20vs%20Gender.PNG)
     ![image](https://github.com/msingaram1/Bikesharing/blob/main/Gender%20by%20Weekday.PNG)
-    ![image] (https://github.com/msingaram1/Bikesharing/blob/main/Weekday%20vs%20Hour.PNG)
+    ![image](https://github.com/msingaram1/Bikesharing/blob/main/Weekday%20vs%20Hour.PNG)
 
     
     
