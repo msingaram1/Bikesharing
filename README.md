@@ -22,8 +22,8 @@ August Peak Hours
     - Activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
 
 Checkout Time vs Users
-    ![alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
-    
+![image](https://github.com/msingaram1/Bikesharing/blob/main/Checkout%20Time%20vs%20Users.PNG)
+
     - Bikes are mostly checked out for 4 to 6 hours
     
 Checkout Time vs Gender
@@ -33,7 +33,10 @@ Checkout Time vs Gender
     - Males use the service 3x more than women
     
 Trips by Weekday and Gender
-    ![alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+    ![image](https://github.com/msingaram1/Bikesharing/blob/main/Trips%20vs%20Gender.PNG)
+    ![image](https://github.com/msingaram1/Bikesharing/blob/main/Gender%20by%20Weekday.PNG)
+    ![image] (https://github.com/msingaram1/Bikesharing/blob/main/Weekday%20vs%20Hour.PNG)
+
     
     
     - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
