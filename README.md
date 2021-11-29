@@ -7,7 +7,7 @@ This analysis provides useful insights into starting a ridesharing service for b
 ## Results
 
 # Tablaeu Analysis
-![link] (https://public.tableau.com/app/profile/muru4340/viz/Citibike_16378928786110/NYCCityBikeData?publish=yes)
+![link to dashboard](https://public.tableau.com/app/profile/muru4340/viz/Citibike_16378928786110/NYCCityBikeData?publish=yes)
 
 # New York CitiBike Data Analysis
 
