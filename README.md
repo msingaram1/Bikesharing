@@ -13,9 +13,10 @@ This analysis provides useful insights into starting a ridesharing service for b
 
 Top Starting Locations
 
-August Peak Hours
+August Peak Hours 
+[image](https://github.com/msingaram1/Bikesharing/blob/main/August%20Peak%20Hours.PNG)
     
-    [image](https://github.com/msingaram1/Bikesharing/blob/main/August%20Peak%20Hours.PNG)
+    
     
     - Highest activity hours from 5:00 PM to 7:00 PM and require the most resources mobilized.
     - Activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
